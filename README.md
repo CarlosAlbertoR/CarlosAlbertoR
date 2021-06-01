@@ -18,45 +18,45 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
-<img height="40" alt="javascript" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png">
-<img height="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-<img height="40" alt="c" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
-<img height="40" alt="HTML" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png">
-<img height="40" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img height="40" alt="Bootsptrap" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg">
-<img height="40" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="40" alt="Express" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg">
-<img height="40" alt="TS" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg">
-<img height="40" alt="Angular" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg">
-<img height="40" alt="Postgres" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">
-<img height="40" alt="MySQL" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
-<img height="40" alt="MongoDB" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-<img height="40" alt="Git" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
-<img height="40" alt="GitHub" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png">
-<img height="40" alt="Dart" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg">
-<img height="40" alt="PHP" src="https://profilinator.rishav.dev/skills-assets/php-original.svg">
-<img height="40" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" alt="C++" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg">
-<img height="40" alt="C#" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg">
-<img height="40" alt="Flutter" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg">
-<img height="40" alt="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img height="40" alt="Linux" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg">
-<img height="40" alt="Xd" src="https://profilinator.rishav.dev/skills-assets/adobexd.png">
-<img height="40" alt="Ilustrator" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg">
-    <img height="40" alt="Photoshop" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png">
-    <img height="40" alt="OSs" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png">
-    <img height="40" alt="SQL Server" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png">
-    <img height="40" alt="Android" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png">
-    <img height="40" alt="IJ" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png">
-    <img height="40" alt="VS" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png">
-    <img height="40" alt="Android Studio" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png">
-<img height="40" alt="Docker" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg">
-<img height="40" alt="Arduino" src="https://profilinator.rishav.dev/skills-assets/arduino.png">
+<img height="40" style="margin: 5px" alt="javascript" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png">
+<img height="40" style="margin: 5px" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+<img height="40" style="margin: 5px" alt="c" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
+<img height="40" style="margin: 5px" alt="HTML" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png">
+<img height="40" style="margin: 5px" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="40" style="margin: 5px" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+<img height="40" style="margin: 5px" alt="Bootsptrap" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg">
+<img height="40" style="margin: 5px" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="40" style="margin: 5px" alt="Express" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg">
+<img height="40" style="margin: 5px" alt="TS" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg">
+<img height="40" style="margin: 5px" alt="Angular" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg">
+<img height="40" style="margin: 5px" alt="Postgres" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">
+<img height="40" style="margin: 5px" alt="MySQL" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
+<img height="40" style="margin: 5px" alt="MongoDB" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
+<!-- <img align="left" style="margin: 5px" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" style="margin: 5px" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" style="margin: 5px" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" style="margin: 5px" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
+<img height="40" style="margin: 5px" alt="Git" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
+<img height="40" style="margin: 5px" alt="GitHub" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png">
+<img height="40" style="margin: 5px" alt="Dart" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg">
+<img height="40" style="margin: 5px" alt="PHP" src="https://profilinator.rishav.dev/skills-assets/php-original.svg">
+<img height="40" style="margin: 5px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="40" style="margin: 5px" alt="C++" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg">
+<img height="40" style="margin: 5px" alt="C#" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg">
+<img height="40" style="margin: 5px" alt="Flutter" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg">
+<img height="40" style="margin: 5px" alt="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img height="40" style="margin: 5px" alt="Linux" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg">
+<img height="40" style="margin: 5px" alt="Xd" src="https://profilinator.rishav.dev/skills-assets/adobexd.png">
+<img height="40" style="margin: 5px" alt="Ilustrator" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg">
+    <img height="40" style="margin: 5px" alt="Photoshop" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png">
+    <img height="40" style="margin: 5px" alt="OSs" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png">
+    <img height="40" style="margin: 5px" alt="SQL Server" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png">
+    <img height="40" style="margin: 5px" alt="Android" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png">
+    <img height="40" style="margin: 5px" alt="IJ" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png">
+    <img height="40" style="margin: 5px" alt="VS" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png">
+    <img height="40" style="margin: 5px" alt="Android Studio" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png">
+<img height="40" style="margin: 5px" alt="Docker" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg">
+<img height="40" style="margin: 5px" alt="Arduino" src="https://profilinator.rishav.dev/skills-assets/arduino.png">
 
 
     </p>
@@ -68,12 +68,12 @@
 
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
    
-    <img height="40" alt="VueJS" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg">
-    <img height="40" alt="Google Cloud" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg">
-    <img height="40" alt="AWS" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg">     
-    <img height="40" alt="AE" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png">
-    <img height="40" alt="Flask" src="https://profilinator.rishav.dev/skills-assets/flask.png">
-    <img height="40" alt="Django" src="https://profilinator.rishav.dev/skills-assets/django-original.svg">
+    <img height="40" style="margin: 5px" alt="VueJS" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg">
+    <img height="40" style="margin: 5px" alt="Google Cloud" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg">
+    <img height="40" style="margin: 5px" alt="AWS" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg">     
+    <img height="40" style="margin: 5px" alt="AE" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png">
+    <img height="40" style="margin: 5px" alt="Flask" src="https://profilinator.rishav.dev/skills-assets/flask.png">
+    <img height="40" style="margin: 5px" alt="Django" src="https://profilinator.rishav.dev/skills-assets/django-original.svg">
 
     </p>
 &nbsp;
