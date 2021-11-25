@@ -92,7 +92,9 @@
     <a href="https://github.com/CarlosAlbertoR"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Git Hub" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/carlos-alberto-rios-naranjo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:carlosalbertorios@gmail.com?subject=Hello%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+    <!--
     <a href="https://twitter.com/carlosriosnara"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+-->
     <a href=" https://wa.me/573207700576"><img src="https://img.shields.io/badge/whatsapp-%20BB2D2.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" /></a>&nbsp; 
     <!--
     <a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
