@@ -8,95 +8,99 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7061ff&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
 
 <!-- Background -->
+<div style="text-align: center;">
+  <img src="https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif" alt="GIF">
+</div>
 
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+<!-- About me -->
 
-&nbsp;
+### 💻 About Me
 
-<!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
-<img height="40" style="margin: 5px" alt="javascript" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png">
-<img height="40" style="margin: 5px" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-<img height="40" style="margin: 5px" alt="c" src="https://profilinator.rishav.dev/skills-assets/c-original.svg">
-<img height="40" style="margin: 5px" alt="HTML" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png">
-<img height="40" style="margin: 5px" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" style="margin: 5px" alt="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img height="40" style="margin: 5px" alt="Bootsptrap" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg">
-<img height="40" style="margin: 5px" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="40" style="margin: 5px" alt="Express" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg">
-<img height="40" style="margin: 5px" alt="TS" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg">
-<img height="40" style="margin: 5px" alt="Angular" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg">
-<img height="40" style="margin: 5px" alt="Postgres" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg">
-<img height="40" style="margin: 5px" alt="MySQL" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg">
-<img height="40" style="margin: 5px" alt="MongoDB" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg">
-<!-- <img align="left" style="margin: 5px" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" style="margin: 5px" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" style="margin: 5px" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" style="margin: 5px" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-<img height="40" style="margin: 5px" alt="Git" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg">
-<img height="40" style="margin: 5px" alt="GitHub" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png">
-<img height="40" style="margin: 5px" alt="Dart" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg">
-<img height="40" style="margin: 5px" alt="PHP" src="https://profilinator.rishav.dev/skills-assets/php-original.svg">
-<img height="40" style="margin: 5px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" style="margin: 5px" alt="C++" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg">
-<img height="40" style="margin: 5px" alt="C#" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg">
-<img height="40" style="margin: 5px" alt="Flutter" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg">
-<img height="40" style="margin: 5px" alt="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img height="40" style="margin: 5px" alt="Linux" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg">
-<img height="40" style="margin: 5px" alt="Xd" src="https://profilinator.rishav.dev/skills-assets/adobexd.png">
-<img height="40" style="margin: 5px" alt="Ilustrator" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg">
-    <img height="40" style="margin: 5px" alt="Photoshop" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png">
-    <img height="40" style="margin: 5px" alt="OSs" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png">
-    <img height="40" style="margin: 5px" alt="SQL Server" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png">
-    <img height="40" style="margin: 5px" alt="Android" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png">
-    <img height="40" style="margin: 5px" alt="IJ" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png">
-    <img height="40" style="margin: 5px" alt="VS" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png">
-    <img height="40" style="margin: 5px" alt="Android Studio" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png">
-<img height="40" style="margin: 5px" alt="Docker" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg">
-<img height="40" style="margin: 5px" alt="Arduino" src="https://profilinator.rishav.dev/skills-assets/arduino.png">
+- 🤔 &nbsp; Passionate about exploring new technologies, with a focus on Web 3 development and blockchain.
+- 🎓 &nbsp; Studying Web 3 Development and Blockchain. Holds a degree in Systems and Telecommunications Engineering from the [University of Manizales](https://umanizales.edu.co/).
+- 👨‍💻 &nbsp; Currently working as a Frontend Developer, specializing in Angular and React.
 
+<br>
 
-    </p>
-    
-&nbsp;    
+<!-- Stack -->
 
- 
-    <!-- Skills to learn -->
+### 💻 Stack I Work With
 
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
-   
-    <img height="40" style="margin: 5px" alt="VueJS" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg">
-    <img height="40" style="margin: 5px" alt="Google Cloud" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg">
-    <img height="40" style="margin: 5px" alt="AWS" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg">     
-    <img height="40" style="margin: 5px" alt="AE" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png">
-    <img height="40" style="margin: 5px" alt="Flask" src="https://profilinator.rishav.dev/skills-assets/flask.png">
-    <img height="40" style="margin: 5px" alt="Django" src="https://profilinator.rishav.dev/skills-assets/django-original.svg">
+<!-- Frontend -->
+<div align="center">
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
+    <img width="36" style="margin: 4px;" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
+</div>
 
-    </p>
-&nbsp;
+<!-- Other Tools and Technologies -->
+<div align="center">
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
+</div>
 
-<p><H3 align="center"><strong>My Github Stats: 📈</strong></p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlbertoR&&layout=compact&theme=blue-green">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosAlbertoR&count_private=true&show_icons=trueline_height=21&theme=blue-green">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosAlbertoR&theme=blue-green">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=CarlosAlbertoR&row=2&column=4&theme=darkhub">
-</p>
-&nbsp;
+<!-- Backend -->
+<div align="center">
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
+    <img width="36" style="margin: 4px;" src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" alt="Solidity" title="Solidity"/>
+</div>
 
-<p><H3 align="center"><strong>Contact me: 📫</strong></p>
-<p align="center">
-    <a href="https://github.com/CarlosAlbertoR"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Git Hub" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/carlos-alberto-rios-naranjo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<!-- Databases -->
+<div align="center">
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
+    <img width="36" style="margin: 4px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+    <img width="36" style="margin: 4px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB"/>
+    <img width="36" style="margin: 4px;" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+</div>
+
+### 📈 My Github Stats
+
+<div align="center">
+    <table border="0" align="center" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=CarlosAlbertoR&layout=compact&theme=blue-green&show_icons=true&count_private=true" alt="GitHub Stats"/>
+        <br/><br/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosAlbertoR&theme=dark&hide_border=true"/>
+        </td>
+        <td width="50%" align="center">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CarlosAlbertoR&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages"/>
+        </td>
+    </tr>
+    </table>
+    <br />
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=CarlosAlbertoR&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+<br/>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+</div>
+
+<hr />
+
+<!-- Contact Me -->
+<div align="center">
+  <h3><strong>😄 Can Connect With Me On</strong></h3>
+   <a href="https://www.linkedin.com/in/carlos-alberto-rios-naranjo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:carlosalbertorios@gmail.com?subject=Hello%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-    <!--
-    <a href="https://twitter.com/carlosriosnara"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
--->
-    <a href=" https://wa.me/573207700576"><img src="https://img.shields.io/badge/whatsapp-%20BB2D2.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" /></a>&nbsp; 
-    <!--
-    <a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-    <a href="#"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+    <!-- <a href="#"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp; -->
+</div>
