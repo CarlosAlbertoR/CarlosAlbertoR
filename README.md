@@ -6,7 +6,11 @@
 - 🧩 **Before:** multi-brand microfrontend architecture (Next.js, Module Federation, single-spa, Umbraco) and platforms serving 100K+ users.
 - 🛠️ **On the side:** full-stack products with NestJS, PostgreSQL and React Native.
 
-[![Tech stack](https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind,nestjs,postgres,docker,githubactions,aws&theme=dark)](https://skillicons.dev)
+   <p>
+     <img src="https://skillicons.dev/icons?i=angular,react&theme=dark" height="48" alt="Angular, React" />
+     <img src="assets/expo.svg" height="48" alt="Expo / React Native" />
+     <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nestjs,postgres,docker,githubactions,aws&theme=dark" height="48" alt="Next.js, TypeScript, Tailwind, NestJS, PostgreSQL, Docker, GitHub Actions, AWS" />
+   </p>
 
 #### Featured work
 
