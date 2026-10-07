@@ -19,7 +19,7 @@
 | [customers-mf-angular](https://github.com/CarlosAlbertoR/customers-mf-angular) · [demo](https://customers-mf-angular.vercel.app/) | Angular 20 microfrontend loaded into a React shell | Angular 20, Module Federation, React |
 | [PaymentCheckout](https://github.com/CarlosAlbertoR/PaymentCheckout) | 7-step card checkout against a payment-gateway sandbox | NestJS, PostgreSQL, React Native, Redux Toolkit, Jest, Docker |
 | [Cross-chain NFT launch](https://github.com/CarlosAlbertoR/batch-02-desafio-integrador) | Upgradeable ERC-20 / ERC-721, Uniswap V2 swap, cross-chain relay | Solidity, Hardhat, OpenZeppelin, Ethers.js |
-| [cat-breeds](https://github.com/CarlosAlbertoR/cat-breeds) · [demo](https://cat-breeds-ivory.vercel.app/) | Angular app consuming TheCatAPI | Angular 17, Tailwind CSS |
+| [PostsAppAngular](https://github.com/CarlosAlbertoR/PostsAppAngular) · [demo](https://carlosalbertor.github.io/PostsAppAngular/) | CRUD with full NgRx state management | Angular, NgRx (store, effects, entity), RxJS, Tailwind CSS |
 
 #### Get in touch
 
